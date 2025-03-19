@@ -104,15 +104,15 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide relative">
                     <img src="{{ asset('mosque1.jpg') }}" alt="Mosque 1" class="w-full h-full object-cover z-0">
-                    <div class="absolute inset-0 bg-black bg-opacity-40 z-10"></div> <!-- Overlay -->
+                    
                 </div>
                 <div class="swiper-slide relative">
                     <img src="{{ asset('mosque2.jpg') }}" alt="Mosque 2" class="w-full h-full object-cover z-0">
-                    <div class="absolute inset-0 bg-black bg-opacity-40 z-10"></div> <!-- Overlay -->
+                    
                 </div>
                 <div class="swiper-slide relative">
                     <img src="{{ asset('mosque3.jpg') }}" alt="Mosque 3" class="w-full h-full object-cover z-0">
-                    <div class="absolute inset-0 bg-black bg-opacity-40 z-10"></div> <!-- Overlay -->
+                    
                 </div>
             </div>
         </div>
